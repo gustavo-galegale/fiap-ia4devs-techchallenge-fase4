@@ -1,1 +1,22 @@
-# fiap-ia4devs-techchallenge-fase4
+# FIAP - 1IADT - Grupo 28
+
+Esta é a entrega da atividade da FASE 4 da POSTECH IA FOR DEVS (1IADT) da FIAP para
+
+_**Grupo 28**_
+
+## INTEGRANTES DO GRUPO 28
+
+Guilherme Luiz Argentino Silva
+guilherme.argentino@gmail.com
+
+Gustavo Perri Galegale
+gustavo.galegale@fiap.com.br
+
+## INSTRUÇÕES (SEGUNDA TENTATIVA)
+
+1. Abra o Jupyter Notebook pelo botão dentro dele
+2. Execute as instruções na ordem do arquivo
+
+## Link do Vídeo no YouTube
+
+PROCESSANDO
