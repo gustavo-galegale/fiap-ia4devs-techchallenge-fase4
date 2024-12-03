@@ -12,7 +12,7 @@ guilherme.argentino@gmail.com
 Gustavo Perri Galegale
 gustavo.galegale@fiap.com.br
 
-## INSTRUÇÕES (SEGUNDA TENTATIVA)
+## INSTRUÇÕES
 
 1. Abra o Jupyter Notebook pelo botão dentro dele
 2. Execute as instruções na ordem do arquivo
